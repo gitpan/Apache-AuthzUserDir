@@ -1,4 +1,4 @@
-INITIAL RELEASE of Apache::AuthzUserDir (v0.90)
+INITIAL RELEASE of Apache::AuthzUserDir (v0.91)
 Please use with caution and send comments/suggestions to ninjaz@webexpress.com
 
 NAME
@@ -20,9 +20,6 @@ SYNOPSIS
       # This tells apache to only let in users whose
       # http login name matches the * in /home/*/public_html
       require valid-user
-  
-      # DANGER - do not use valid-user here, as it will let anyone in
-      # to anyone's directory.
 
       </Directory>
 

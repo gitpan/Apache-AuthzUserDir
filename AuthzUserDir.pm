@@ -3,7 +3,7 @@ package Apache::AuthzUserDir;
 use strict;
 use Apache::Constants ':common';
 
-$Apache::AuthzUserDir::VERSION = '0.90';
+$Apache::AuthzUserDir::VERSION = '0.91';
 
 sub handler {
     my $r = shift;
