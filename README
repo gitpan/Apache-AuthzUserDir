@@ -1,5 +1,4 @@
-INITIAL RELEASE of Apache::AuthzUserDir (v0.91)
-Please use with caution and send comments/suggestions to ninjaz@webexpress.com
+Please send comments/suggestions to ninjaz@webexpress.com
 
 NAME
       Apache::AuthzUserDir - mod_perl UserDir authorization module
